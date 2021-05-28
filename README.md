@@ -1,10 +1,9 @@
 #objetivo: Comparacion de solucion de ode
 #          con la funcion odeint de scipy
 #          y las Euler y Runge-Kuta
-#          
-#file:MN20162_40.py
+
 #date: 2016-10-26
-#autor: EVH&JAVV
+#autor: duvian alejandro
 
 import  matplotlib.pyplot as pl
 import numpy as np
